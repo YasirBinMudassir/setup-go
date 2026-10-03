@@ -1,5 +1,4 @@
-name: Basic validation
-
+name: Yasir Bin Mudassir
 on:
   push:
     branches:
